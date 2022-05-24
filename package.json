@@ -1,0 +1,36 @@
+{
+  "name": "updated-starter-wordpress-theme",
+  "version": "1.0.0",
+  "description": "Template for start wordpress developing",
+  "main": "index.js",
+  "scripts": {
+    "dev": "gulp watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cris-brin/updated-starter-wordpress-theme.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cris-brin/updated-starter-wordpress-theme/issues"
+  },
+  "homepage": "https://github.com/cris-brin/updated-starter-wordpress-theme#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.10",
+    "cssnano": "^5.1.9",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-postcss": "^9.0.1",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-terser": "^2.1.0",
+    "gulp-watch": "^5.0.1",
+    "node-sass": "^7.0.1"
+  },
+  "dependencies": {
+    "sass": "^1.52.1"
+  }
+}
