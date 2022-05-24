@@ -158,11 +158,4 @@ body {
   -moz-appearance: list;
   appearance: list;
 }
-
-.example {
-  transition: 0.6s;
-  -webkit-appearance: none;
-  -moz-appearance: none;
-  appearance: none;
-}
 /*# sourceMappingURL=style.css.map */
